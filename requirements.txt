@@ -1,7 +1,9 @@
+anthropic
 fastapi
 uvicorn
-chromadb
-sentence-transformers
 langgraph
 langchain
 openai
+python-dotenv
+chromadb
+sentence-transformers
